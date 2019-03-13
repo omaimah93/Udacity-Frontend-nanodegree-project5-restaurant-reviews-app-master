@@ -2,11 +2,6 @@
 /* CSS Document */
 
 @media only screen and (min-device-width: 320px) and (max-device-width: 502px) {
-
-	.filter-options {
-		/*margin: 0px 30px;*/
-	}
-
 	#restaurant-container{
 		flex-flow: column;
 	}
